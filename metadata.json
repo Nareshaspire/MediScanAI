@@ -1,0 +1,5 @@
+{
+  "name": "MediScan AI",
+  "description": "Advanced medical imaging analysis and patient record summarization powered by Gemini AI.",
+  "requestFramePermissions": []
+}
